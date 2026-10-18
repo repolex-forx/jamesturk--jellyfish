@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jamesturk/jellyfish/commit/922a6395d02bc1f405bcd6466252dfdb58225c3f",
       "git:hexsha": "922a6395d02bc1f405bcd6466252dfdb58225c3f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.3.0"
     },
     {
